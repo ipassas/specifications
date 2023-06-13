@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <SPOT Forex>Symbol Name</SPOT Forex>
+    <FIELD2>Symbol Description</FIELD2>
+    <FIELD3>Contract Size</FIELD3>
+    <FIELD4>Digit</FIELD4>
+    <FIELD5>Leverage</FIELD5>
+    <FIELD6>1 Pip PL</FIELD6>
+    <FIELD7>Quote CCY</FIELD7>
+    <FIELD8>Detailed Description</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>AUDCAD</SPOT Forex>
+    <FIELD2>Australian Dollar/Canadian Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CAD</FIELD7>
+    <FIELD8>AUDCAD is a currency pair that represents the exchange rate between the Australian dollar (AUD) and the Canadian dollar (CAD). The AUD is the base currency, while the CAD is the quote currency. This means that when you buy AUDCAD, you are buying Australian dollars and selling Canadian dollars.
+ 
+ The Australian economy is heavily reliant on natural resources, such as minerals and commodities, which can impact the value of the AUD. In contrast, the Canadian economy is largely driven by exports, particularly in the energy and manufacturing sectors. Therefore, fluctuations in commodity prices can significantly affect the value of the CAD.
+  
+ the average daily trading volume for AUDCAD is approximately $5.5 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>AUDCHF</SPOT Forex>
+    <FIELD2>Australian Dollar/Swiss Franc</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CHF</FIELD7>
+    <FIELD8>AUDCHF is a currency pair in the forex market that represents the exchange rate between the Australian dollar (AUD) and the Swiss franc (CHF). The AUD is the base currency, while the CHF is the quote currency. This means that when you buy AUDCHF with your trading account, you are buying Australian dollars and selling Swiss francs.
+ 
+ The Australian economy is heavily reliant on exports, particularly in the mining and agricultural sectors, which can impact the value of the AUD. Meanwhile, the Swiss economy is known for its stability and safe-haven status, which can affect the value of the CHF during times of market uncertainty.
+ 
+ The average daily trading volume for AUDCHF is approximately $4.4 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>AUDJPY</SPOT Forex>
+    <FIELD2>Australian Dollar/Japanese Yen</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>JPY</FIELD7>
+    <FIELD8>AUDJPY is a currency pair in the forex market that represents the exchange rate between the Australian dollar (AUD) and the Japanese yen (JPY). The AUD is the base currency, while the JPY is the quote currency. This means that when you buy AUDJPY through your trading account, you are buying Australian dollars and selling Japanese yen.
+ 
+ The value of AUDJPY can be influenced by various economic and political factors. For instance, the Australian economy is heavily reliant on commodity exports, which can impact the value of the AUD. In contrast, the Japanese economy is known for its manufacturing sector, as well as its status as a safe-haven currency during times of market turmoil.
+ 
+ The average daily trading volume for AUDJPY is $44 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>AUDNZD</SPOT Forex>
+    <FIELD2>Australian Dollar/New Zealand Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>NZD</FIELD7>
+    <FIELD8>AUDNZD is a currency pair in the forex market that represents the exchange rate between the Australian dollar (AUD) and the New Zealand dollar (NZD). The AUD is the base currency, while the NZD is the quote currency. This means that when you buy AUDNZD, you are buying Australian dollars and selling New Zealand dollars.
+ 
+ The value of AUDNZD can be influenced by various economic and political factors. For instance, both the Australian and New Zealand economies are heavily reliant on commodity exports, particularly in the agricultural and mining sectors. As a result, fluctuations in commodity prices can significantly affect the value of both currencies.
+ 
+ The average daily trading volume for AUDNZD is $3.3 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>AUDUSD</SPOT Forex>
+    <FIELD2>Australian Dollar/US Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>AUDUSD is a currency pair in the forex market that represents the exchange rate between the Australian dollar (AUD) and the US dollar (USD). The AUD is the base currency, while the USD is the quote currency. This means that when you buy AUDUSD, you are buying Australian dollars and selling US dollars.
+ 
+ The value of AUDUSD can be influenced by various economic and political factors. For instance, the Australian economy is heavily reliant on commodity exports, particularly in the mining and agricultural sectors. As a result, fluctuations in commodity prices can significantly affect the value of the AUD. In contrast, the US economy is known for its status as a global economic power and the US dollar is considered a safe-haven currency during times of market uncertainty.
+ 
+ The average daily trading volume for AUDUSD is $352 billion USD. However, it&apos;s important to note that trading volumes can fluctuate over time based on various factors, such as market conditions, economic events, and geopolitical developments.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>CADCHF</SPOT Forex>
+    <FIELD2>Australian Dollar/US Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CHF</FIELD7>
+    <FIELD8>CADCHF is a currency pair in the forex market that represents the exchange rate between the Canadian dollar (CAD) and the Swiss franc (CHF). The CAD is the base currency, while the CHF is the quote currency. This means that when you buy CADCHF with your trading account, you are buying Canadian dollars and selling Swiss francs.
+ 
+ The value of CADCHF can be influenced by various economic and political factors. For instance, the Canadian economy is heavily reliant on commodity exports, particularly in the energy and natural resources sectors. As a result, fluctuations in commodity prices can significantly affect the value of the CAD. In contrast, the Swiss economy is known for its banking and financial services industries, and the CHF is considered a safe-haven currency during times of market turmoil.
+ 
+ The average daily trading volume for CADCHF is $2.2 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>CADJPY</SPOT Forex>
+    <FIELD2>Canadian Dollar/Japanese Yen</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>JPY</FIELD7>
+    <FIELD8>CADJPY is a currency pair in the forex market that represents the exchange rate between the Canadian dollar (CAD) and the Japanese yen (JPY). The CAD is the base currency, while the JPY is the quote currency. This means that when you buy CADJPY, you are buying Canadian dollars and selling Japanese yen.
+ 
+ The value of CADJPY can be influenced by various economic and political factors. For instance, the Canadian economy is heavily reliant on commodity exports, particularly in the energy and natural resources sectors. As a result, fluctuations in commodity prices can significantly affect the value of the CAD. In contrast, the Japanese economy is known for its high-tech manufacturing industries, and the JPY is often considered a safe-haven currency during times of market turmoil.
+ 
+ The average daily trading volume for CADJPY is $4.4 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>CHFJPY</SPOT Forex>
+    <FIELD2>Swiss Franc/Japanese Yen</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>JPY</FIELD7>
+    <FIELD8>CHFJPY is a currency pair in the forex market that represents the exchange rate between the Swiss franc (CHF) and the Japanese yen (JPY). The CHF is the base currency, while the JPY is the quote currency. This means that when you buy CHFJPY, you are buying Swiss francs and selling Japanese yen.
+ 
+ The value of CHFJPY can be influenced by various economic and political factors. The Swiss economy is known for its banking and financial services industries, and the CHF is considered a safe-haven currency during times of market turmoil. Meanwhile, the Japanese economy is known for its high-tech manufacturing industries, and the JPY is often considered a safe-haven currency as well.
+ 
+ The average daily trading volume for CHFJPY is $5.5 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURAUD</SPOT Forex>
+    <FIELD2>Euro/Australian Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>AUD</FIELD7>
+    <FIELD8>EURAUD is a currency pair in the forex market that represents the exchange rate between the euro (EUR) and the Australian dollar (AUD). The EUR is the base currency, while the AUD is the quote currency. This means that when you buy EURAUD, you are buying euros and selling Australian dollars.
+ 
+ The value of EURAUD can be influenced by various economic and political factors. For example, economic indicators such as GDP, inflation, and employment data can impact the value of both currencies. Additionally, political events such as elections, trade agreements, and geopolitical tensions can affect the value of the euro and the Australian dollar.
+ 
+ The average daily trading volume for EURAUD is $10 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURCAD</SPOT Forex>
+    <FIELD2>Euro/Canadian Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CAD</FIELD7>
+    <FIELD8>EURCAD is a currency pair in the forex market that represents the exchange rate between the euro (EUR) and the Canadian dollar (CAD). The EUR is the base currency, while the CAD is the quote currency. This means that when you buy EURCAD, you are buying euros and selling Canadian dollars.
+ 
+ The value of EURCAD can be influenced by various economic and political factors. For example, economic indicators such as GDP, inflation, and employment data can impact the value of both currencies. Additionally, political events such as elections, trade agreements, and geopolitical tensions can affect the value of the euro and the Canadian dollar.
+ 
+ The average daily trading volume for EURCAD is $10 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURCHF</SPOT Forex>
+    <FIELD2>Euro/Swiss Franc</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CHF</FIELD7>
+    <FIELD8>EURCHF is a currency pair in the forex market that represents the exchange rate between the euro (EUR) and the Swiss franc (CHF). The EUR is the base currency, while the CHF is the quote currency. This means that when you buy EURCHF, you are buying euros and selling Swiss francs.
+ 
+ The value of EURCHF can be influenced by various economic and political factors. For example, economic indicators such as GDP, inflation, and interest rate differentials can impact the value of both currencies. Additionally, political events such as elections, referendums, and central bank policy decisions can affect the value of the euro and the Swiss franc.
+ 
+ The average daily trading volume for EURCHF is $24 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURCZK</SPOT Forex>
+    <FIELD2>Euro/Czech Koruna</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>4</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CZK</FIELD7>
+    <FIELD8>EURCZK is a currency pair in the forex market that represents the exchange rate between the euro (EUR) and the Czech koruna (CZK). The EUR is the base currency, while the CZK is the quote currency. This means that when you buy EURCZK, you are buying euros and selling Czech korunas.
+ 
+ The value of EURCZK can be influenced by various economic and political factors. For example, economic indicators such as GDP, inflation, and interest rate differentials can impact the value of both currencies. Additionally, political events such as elections, referendums, and central bank policy decisions can affect the value of the euro and the Czech koruna.
+ 
+ The average daily trading volume for EURCZK is $1.5 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURGBP</SPOT Forex>
+    <FIELD2>Euro/Great Britain Pound</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>GBP</FIELD7>
+    <FIELD8>EURGBP is a currency pair in the forex market that represents the exchange rate between the euro (EUR) and the British pound (GBP). The EUR is the base currency, while the GBP is the quote currency. This means that when you buy EURGBP, you are buying euros and selling British pounds.
+ 
+ The value of EURGBP can be influenced by various economic and political factors. For example, economic indicators such as GDP, inflation, and interest rate differentials can impact the value of both currencies. Additionally, political events such as elections, referendums, and central bank policy decisions can affect the value of the euro and the British pound.
+ 
+ The average daily trading volume for EURGBP is $28 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURJPY</SPOT Forex>
+    <FIELD2>Euro/Japanese Yen</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>JPY</FIELD7>
+    <FIELD8>EURJPY is a currency pair in the forex market that represents the exchange rate between the euro (EUR) and the Japanese yen (JPY). The EUR is the base currency, while the JPY is the quote currency. This means that when you buy EURJPY, you are buying euros and selling Japanese yen.
+ 
+ Like other currency pairs, the value of EURJPY can be influenced by various economic and political factors. Economic indicators such as GDP, inflation, and interest rate differentials can impact the value of both currencies. In addition, political events such as elections, trade agreements, and central bank policy decisions can also affect the value of the euro and the Japanese yen.
+ 
+ The average daily trading volume for EURJPY is $16 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURNOK</SPOT Forex>
+    <FIELD2>Euro/Norwegian Krone</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>NOK</FIELD7>
+    <FIELD8>EURNOK is a currency pair in the forex market that represents the exchange rate between the euro (EUR) and the Norwegian krone (NOK). The EUR is the base currency, while the NOK is the quote currency. This means that when you buy EURNOK, you are buying euros and selling Norwegian kroner.
+ 
+ The value of EURNOK can be influenced by a range of factors, including economic indicators such as GDP, inflation, and interest rates, as well as political events such as elections and central bank policy decisions. Norway is also a major oil-producing country, so fluctuations in oil prices can also have an impact on the value of the Norwegian krone.
+ 
+ The average daily trading volume for EURNOK is $6 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURNZD</SPOT Forex>
+    <FIELD2>Euro/New Zealand Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>NZD</FIELD7>
+    <FIELD8>EURNZD is a currency pair in the forex market that represents the exchange rate between the euro (EUR) and the New Zealand dollar (NZD). The EUR is the base currency, while the NZD is the quote currency. This means that when you buy EURNZD, you are buying euros and selling New Zealand dollars.
+ 
+ The value of EURNZD can be influenced by a variety of factors, including economic indicators such as GDP, inflation, and interest rates, as well as political events such as elections and central bank policy decisions. New Zealand is also a major agricultural exporter, so fluctuations in commodity prices, such as dairy or meat, can also have an impact on the value of the New Zealand dollar.
+ 
+ The average daily trading volume for EURNZD is around $5 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURSEK</SPOT Forex>
+    <FIELD2>Euro/Swedish Krona</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>SEK</FIELD7>
+    <FIELD8>EURSEK is a currency pair in the forex market that represents the exchange rate between the euro (EUR) and the Swedish krona (SEK). The EUR is the base currency, while the SEK is the quote currency. This means that when you buy EURSEK, you are buying euros and selling Swedish kronor.
+ 
+ The value of EURSEK can be influenced by various economic and political factors. Economic indicators such as GDP, inflation, and interest rates can impact the value of both currencies. In addition, political events such as elections, referendums, and central bank policy decisions can also affect the value of the euro and the Swedish krona.
+ 
+ The average daily trading volume for EURSEK is $6 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURTRY</SPOT Forex>
+    <FIELD2>Euro/Turkish Lira</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>TRY</FIELD7>
+    <FIELD8>EURTRY is a currency pair that represents the exchange rate between the Euro and the Turkish Lira. When the value of the pair increases, it means that the Euro has strengthened against the Turkish Lira, while a decrease indicates that the Turkish Lira has gained strength against the Euro.
+ 
+ The average daily trading volume for EURTRY is approximately $11 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURUSD</SPOT Forex>
+    <FIELD2>Euro/US Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>EURUSD is a currency pair that represents the exchange rate between the Euro and the US dollar. When the value of the pair increases, it means that the Euro has strengthened against the US dollar, while a decrease indicates that the US dollar has gained strength against the Euro.
+ 
+ The average daily trading volume for EURUSD is approximately $1.9 trillion USD. This makes it one of the most heavily traded currency pairs in the world. It&apos;s important to note that trading volumes can fluctuate over time due to a variety of factors such as market conditions, economic events, and geopolitical developments. However, EURUSD typically remains a highly liquid and actively traded currency pair.
+ 
+ The factors that can influence the price of the EURUSD currency pair include macroeconomic indicators such as Gross Domestic Product (GDP), inflation, employment data, and interest rates. News events and geopolitical developments can also impact the pair&apos;s price.
+ 
+ EURUSD is considered a major currency pair and is widely traded by individual traders, institutional investors, and central banks around the world.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>GBPAUD</SPOT Forex>
+    <FIELD2>Great Britan Pound/Australian Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>AUD</FIELD7>
+    <FIELD8>GBPAUD is a currency pair that represents the exchange rate between the Great British Pound (GBP) and the Australian Dollar (AUD). When the value of the pair increases, it means that the GBP has strengthened against the AUD, while a decrease indicates that the AUD has gained strength against the GBP.
+ 
+ The average daily trading volume for GBPAUD is approximately $9 billion USD.
+ 
+ GBPAUD is considered a cross-currency pair, and it is not as heavily traded as major currency pairs such as EURUSD or USDJPY. However, it is still actively traded by individual traders, institutional investors, and central banks around the world.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>GBPCAD</SPOT Forex>
+    <FIELD2>Great Britain Pound/Canadian Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CAD</FIELD7>
+    <FIELD8>GBPCAD is a currency pair that represents the exchange rate between the Great British Pound (GBP) and the Canadian Dollar (CAD). When the value of the pair increases, it means that the GBP has strengthened against the CAD, while a decrease indicates that the CAD has gained strength against the GBP.
+ 
+ The average daily trading volume for GBPCAD is approximately $5.6 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>GBPCHF</SPOT Forex>
+    <FIELD2>Great Britain Pound/Swiss Franc</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CHF</FIELD7>
+    <FIELD8>GBPCHF is a currency pair that represents the exchange rate between the British pound and the Swiss franc. It shows how many Swiss francs are required to buy one British pound.
+ 
+ The average daily trading volume of GBPCHF is approximately $4.4 billion.
+ 
+ GBPCHF is not one of the major currency pairs, but it is still actively traded traders around the world. The pair is often influenced by a variety of factors, including interest rates, economic data releases, geopolitical events, and global market sentiment.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>GBPJPY</SPOT Forex>
+    <FIELD2>Great Britain Pound/Japanese Yen</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>JPY</FIELD7>
+    <FIELD8>GBPJPY is a currency pair that represents the exchange rate between the British pound and the Japanese yen. It shows how many Japanese yen are required to buy one British pound.
+ 
+ GBPJPY is known for its high volatility, and it is often considered a good indicator of overall market risk sentiment. The pair is influenced by a variety of factors, including interest rates, economic data releases, geopolitical events, and global market sentiment.
+ 
+ The average daily trading volume of GBPJPY is approximately $37.6 billion, making it one of the most actively traded currency pairs.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>GBPNOK</SPOT Forex>
+    <FIELD2>Great Britain Pound/Norwegian Krone</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>NOK</FIELD7>
+    <FIELD8>GBPNOK is a currency pair that represents the exchange rate between the British pound and the Norwegian krone. It shows how many Norwegian kroner are required to buy one British pound.
+ 
+ The average daily trading volume of GBPNOK varies depending on market conditions and the time period being considered. However, according to data from the Bank for International Settlements, the average daily trading volume of GBPNOK is approximately $1.5 billion.
+ 
+ GBPNOK is not one of the major currency pairs, but it is still actively traded by investors and traders around the world.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>GBPNZD</SPOT Forex>
+    <FIELD2>Great Britain Pound/New Zealand Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>NZD</FIELD7>
+    <FIELD8>GBPNZD is a currency pair that represents the exchange rate between the British pound and the New Zealand dollar. It shows how many New Zealand dollars are required to buy one British pound.
+ 
+ The average daily trading volume of GBPNZD varies depending on market conditions and the time period being considered. However, according to data from the Bank for International Settlements, the average daily trading volume of GBPNZD is approximately $2.2 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>GBPTRY</SPOT Forex>
+    <FIELD2>Great Britain Pound/Turkish Lira</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>TRY</FIELD7>
+    <FIELD8>GBPTRY is a currency pair that represents the exchange rate between the British pound and the Turkish lira. It shows how many Turkish lira are required to buy one British pound.
+ 
+ The average daily trading volume of GBPTRY varies depending on market conditions and the time period being considered. However, according to data from the Bank for International Settlements, the average daily trading volume of GBP/TRY is $1.6 billion.
+ 
+ GBPTRY is not one of the major currency pairs, but it is still actively traded by investors and traders around the world. The pair is often influenced by a variety of factors, including interest rates, economic data releases, geopolitical events, and global market sentiment.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>GBPUSD</SPOT Forex>
+    <FIELD2>Great Britain Pound/US Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>GBPUSD is a currency pair that represents the exchange rate between the British pound and the US dollar. It shows how many US dollars are required to buy one British pound.
+ 
+ The average daily trading volume of GBPUSD is $168.4 billion, making it one of the most actively traded currency pairs in the world.
+ 
+ GBPUSD is considered a major currency pair, and it is widely traded by investors and traders around the world. The pair is often influenced by a variety of factors, including interest rates, economic data releases, geopolitical events, and global market sentiment.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>NZDCAD</SPOT Forex>
+    <FIELD2>New Zealand Dollar/Canadian Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CAD</FIELD7>
+    <FIELD8>NZDCAD is a currency pair that represents the exchange rate between the New Zealand dollar and the Canadian dollar. It shows how many Canadian dollars are required to buy one New Zealand dollar.
+ 
+ The New Zealand dollar is often referred to as a commodity currency because of New Zealand&apos;s significant export of commodities such as dairy, meat, and wool. As a result, NZDCAD is often influenced by commodity prices, as well as other factors such as interest rates, economic data releases, geopolitical events, and global market sentiment.
+ 
+ The average daily trading volume of NZDCAD is $2.8 billion.
+ 
+ NZDCAD is not one of the major currency pairs, but it is still actively traded by investors and traders around the world.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>NZDCHF</SPOT Forex>
+    <FIELD2>New Zealand Dollar/Swiss Franc</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CHF</FIELD7>
+    <FIELD8>NZDCHF is a currency pair that represents the exchange rate between the New Zealand dollar and the Swiss franc. It shows how many Swiss francs are required to buy one New Zealand dollar.
+ 
+ The New Zealand dollar is often referred to as a commodity currency because of New Zealand&apos;s significant export of commodities such as dairy, meat, and wool. As a result, NZDCHF is often influenced by commodity prices, as well as other factors such as interest rates, economic data releases, geopolitical events, and global market sentiment.
+ 
+ The average daily trading volume of NZDCHF varies depending on market conditions and the time period being considered. However, according to data from the Bank for International Settlements, the average daily trading volume of NZDCHF is $1.1 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>NZDJPY</SPOT Forex>
+    <FIELD2>New Zealand Dollar/Japanese Yen</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>JPY</FIELD7>
+    <FIELD8>NZDJPY is a currency pair that represents the exchange rate between the New Zealand dollar and the Japanese yen. It shows how many Japanese yen are required to buy one New Zealand dollar.
+ 
+ The average daily trading volume of NZDJPY according to data from the Bank for International Settlements is approximately $6.2 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>NZDUSD</SPOT Forex>
+    <FIELD2>New Zealand Dollar/US Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>NZDUSD is a currency pair that represents the exchange rate between the New Zealand dollar and the US dollar. It shows how many US dollars are required to buy one New Zealand dollar.
+ 
+ The average daily trading volume of NZDUSD is $10.4 billion.
+ 
+ NZDUSD is considered a major currency pair, and it is widely traded by investors and traders around the world.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDCAD</SPOT Forex>
+    <FIELD2>US Dollar/Canadian Dollar</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CAD</FIELD7>
+    <FIELD8>USDCAD is a currency pair that represents the exchange rate between the US dollar and the Canadian dollar. It shows how many Canadian dollars are required to buy one US dollar.
+ 
+ The Canadian dollar is often referred to as a commodity currency because of Canada&apos;s significant exports of commodities such as oil, natural gas, and lumber. As a result, USDCAD is often influenced by commodity prices, as well as other factors such as interest rates, economic data releases, geopolitical events, and global market sentiment.
+ 
+ The average daily trading volume of USDCAD is $82.3 billion, making it one of the most actively traded currency pairs in the world.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDCHF</SPOT Forex>
+    <FIELD2>US Dollar/Swiss Franc</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CHF</FIELD7>
+    <FIELD8>USDCHF is a currency pair that represents the exchange rate between the US dollar and the Swiss franc. It shows how many Swiss francs are required to buy one US dollar.
+ 
+ The Swiss franc is often considered a safe-haven currency, meaning that it tends to strengthen during times of global economic uncertainty and market turbulence. As a result, USDCHF is often influenced by global market sentiment, as well as other factors such as interest rates, economic data releases, and geopolitical events.
+ 
+ The average daily trading volume of USDCHF is $183.5 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDCZK</SPOT Forex>
+    <FIELD2>US Dollar/Czech Koruna</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>4</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>CZK</FIELD7>
+    <FIELD8>USDCZK is a currency pair that represents the exchange rate between the US dollar and the Czech koruna. It shows how many Czech korunas are required to buy one US dollar.
+ 
+ The average daily trading volume of USDCZK is approximately $1.3 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDDKK</SPOT Forex>
+    <FIELD2>US Dollar/Danish Krone</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>DKK</FIELD7>
+    <FIELD8>USDDKK is a currency pair that represents the exchange rate between the US dollar and the Danish krone. It shows how many Danish kroner are required to buy one US dollar.
+ 
+ The Danish krone is not considered a major currency, and USDDKK is not one of the most actively traded currency pairs. However, it is still actively traded by investors and traders around the world. The pair is often influenced by a variety of factors, including interest rates, economic data releases, geopolitical events, and global market sentiment.
+ 
+ The average daily trading volume of USDDKK is $6.8 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDJPY</SPOT Forex>
+    <FIELD2>US Dollar/Japanese Yen</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>JPY</FIELD7>
+    <FIELD8>USDJPY is a currency pair that represents the exchange rate between the US dollar and the Japanese yen. It shows how many Japanese yen are required to buy one US dollar.
+ 
+ USDJPY is considered a major currency pair, and it is widely traded by investors and traders around the world. The pair is often influenced by a variety of factors, including interest rates, economic data releases, geopolitical events, and global market sentiment.
+ 
+ The is approximately $937.4 billion, making it one of the most actively traded currency pairs in the world.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDMXN</SPOT Forex>
+    <FIELD2>US Dollar/Mexican Peso</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>MXN</FIELD7>
+    <FIELD8>USDMXN is a currency pair that represents the exchange rate between the US dollar and the Mexican peso. It shows how many Mexican pesos are required to buy one US dollar.
+ 
+ The average daily trading volume of USDMXN is $146.6 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDNOK</SPOT Forex>
+    <FIELD2>US Dollar/Norwegian Krone</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>NOK</FIELD7>
+    <FIELD8>USDNOK is a currency pair that represents the exchange rate between the US dollar and the Norwegian krone. It shows how many Norwegian kroner are required to buy one US dollar.
+ 
+ The Norwegian krone is often considered a commodity currency because of Norway&apos;s significant exports of commodities such as oil, gas, and seafood. As a result, USDNOK is often influenced by commodity prices, as well as other factors such as interest rates, economic data releases, geopolitical events, and global market sentiment.
+ 
+ The average daily trading volume of USDNOK is 1 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDSEK</SPOT Forex>
+    <FIELD2>US Dollar/Swedish Krona</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>SEK</FIELD7>
+    <FIELD8>USDSEK is a currency pair that represents the exchange rate between the US dollar and the Swedish krona. It shows how many Swedish kronor are required to buy one US dollar.
+ 
+ The average daily trading volume of USDSEK is $16.5 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDTRY</SPOT Forex>
+    <FIELD2>US Dollar/Turkish Lira</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>TRY</FIELD7>
+    <FIELD8>USDTRY is a currency pair that represents the exchange rate between the US dollar and the Turkish lira. It shows how many Turkish liras are required to buy one US dollar.
+ 
+ The Turkish lira has a history of high volatility and has experienced significant fluctuations in value in recent years, due to a variety of factors including inflation, political instability, and economic crises. As a result, USDTRY is often influenced by these factors as well as interest rates, economic data releases, and global market sentiment.
+ 
+ The average daily trading volume of USDTRY varies depending on market conditions and the time period being considered. However, according to data from the Bank for International Settlements, the average daily trading volume of USDTRY is $23.8 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDZAR</SPOT Forex>
+    <FIELD2>US Dollar/South Africa Rand</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>ZAR</FIELD7>
+    <FIELD8>USDZAR is a currency pair that represents the exchange rate between the US dollar and the South African rand. It shows how many South African rand are required to buy one US dollar.
+ 
+ The South African rand is often considered a commodity currency because of South Africa&apos;s significant exports of commodities such as gold, platinum, and diamonds. As a result, USDZAR is often influenced by commodity prices, as well as other factors such as interest rates, economic data releases, geopolitical events, and global market sentiment.
+ 
+ The average daily trading volume of USDZAR is $14.2 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURHUF</SPOT Forex>
+    <FIELD2>Euro/Hungarian Forint</FIELD2>
+    <FIELD3>100000</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>HUF</FIELD7>
+    <FIELD8>EURHUF is a currency pair that represents the exchange rate between the Euro and the Hungarian Forint. In this currency pair, the Euro is the base currency, while the Hungarian Forint is the quote currency. The EURHUF currency pair is widely traded in the forex market, and it is considered a minor currency pair.
+
+The value of the EURHUF currency pair is influenced by various factors, including economic data releases, political events, and monetary policy decisions. For example, if the European Central Bank (ECB) announces an interest rate hike, it could increase demand for the Euro, which could cause the EURHUF currency pair to rise. On the other hand, if there is political instability in Hungary, it could cause the Hungarian Forint to weaken against the Euro, causing the EURHUF currency pair to increase.
+
+The EURHUF currency pair has a relatively low trading volume compared to major currency pairs like EURUSD and USDJPY. As a result, it may be more volatile, and bid-ask spreads may be wider, leading to higher transaction costs for traders.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURPLN</SPOT Forex>
+    <FIELD2>Euro/Polish Zloty</FIELD2>
+    <FIELD3>100,000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>PLN</FIELD7>
+    <FIELD8>EURPLN is a currency pair that represents the exchange rate between the Euro and the Polish Zloty. In this currency pair, the Euro is the base currency, while the Polish Zloty is the quote currency. The EURPLN currency pair is also considered a minor currency pair, but it is more actively traded compared to other minor currency pairs.
+
+The value of the EURPLN currency pair is influenced by various factors, including economic data releases, political events, and monetary policy decisions. For example, if the European Central Bank (ECB) announces an interest rate hike, it could increase demand for the Euro, which could cause the EURPLN currency pair to rise. On the other hand, if there is political instability in Poland, it could cause the Polish Zloty to weaken against the Euro, causing the EURPLN currency pair to increase.
+
+Like other minor currency pairs, the EURPLN currency pair has a lower trading volume compared to major currency pairs, and bid-ask spreads may be wider, leading to higher transaction costs for traders.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>EURSGD</SPOT Forex>
+    <FIELD2>Euro/Singapore Dollar</FIELD2>
+    <FIELD3>100,000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>SGD</FIELD7>
+    <FIELD8>EURSGD is a currency pair that represents the exchange rate between the Euro and the Singapore Dollar. In this currency pair, the Euro is the base currency, while the Singapore Dollar is the quote currency. The EURSGD currency pair is also considered a minor currency pair.
+
+The value of the EURSGD currency pair is influenced by various factors, including economic data releases, political events, and monetary policy decisions. For example, if the European Central Bank (ECB) announces an interest rate hike, it could increase demand for the Euro, which could cause the EURSGD currency pair to rise. On the other hand, if there is political instability in Singapore or the Monetary Authority of Singapore (MAS) announces a monetary policy decision that strengthens the Singapore Dollar, it could cause the EURSGD currency pair to fall.
+
+The EURSGD currency pair has a relatively low trading volume compared to major currency pairs, but it is more actively traded compared to other minor currency pairs. However, it may be more volatile than other minor currency pairs due to the high liquidity of the Singapore Dollar and its sensitivity to external factors, such as global economic conditions.
+
+The average daily trading volume for the Singapore Dollar (which includes all currency pairs that involve the SGD) is approximately US $633 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDHUF</SPOT Forex>
+    <FIELD2>US Dollar/Hungarian Forint</FIELD2>
+    <FIELD3>100,000</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>HUF</FIELD7>
+    <FIELD8>USDHUF is a currency pair that represents the exchange rate between the US Dollar and the Hungarian Forint. In this currency pair, the US Dollar is the base currency, while the Hungarian Forint is the quote currency. The USDHUF currency pair is widely traded in the forex market and is considered a minor currency pair.
+
+The value of the USDHUF currency pair is influenced by various factors, including economic data releases, political events, and monetary policy decisions. For example, if the Federal Reserve (Fed) announces an interest rate hike, it could increase demand for the US Dollar, which could cause the USDHUF currency pair to rise. On the other hand, if there is political instability in Hungary, it could cause the Hungarian Forint to weaken against the US Dollar, causing the USDHUF currency pair to increase.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDILS</SPOT Forex>
+    <FIELD2>US Dollar/Israeli New Shekel</FIELD2>
+    <FIELD3>100,000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>ILS</FIELD7>
+    <FIELD8>USDILS is a currency pair that represents the exchange rate between the US Dollar and the Israeli Shekel. In this currency pair, the US Dollar is the base currency, while the Israeli Shekel is the quote currency. The USDILS currency pair is considered a minor currency pair, and it is traded in the forex market.
+
+The value of the USDILS currency pair is influenced by various factors, including economic data releases, political events, and monetary policy decisions. For example, if the US Federal Reserve (Fed) announces an interest rate hike, it could increase demand for the US Dollar, which could cause the USDILS currency pair to rise. On the other hand, if there is political instability in Israel or the Bank of Israel announces a monetary policy decision that strengthens the Israeli Shekel, it could cause the USDILS currency pair to fall.
+
+The USDILS currency pair has a relatively low trading volume compared to major currency pairs like EURUSD and USDJPY, and bid-ask spreads may be wider, leading to higher transaction costs for traders. However, it may be more volatile than other major currency pairs due to the sensitivity of the Israeli Shekel to political and security events in the Middle East.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDPLN</SPOT Forex>
+    <FIELD2>US Dollar/Polish Zloty</FIELD2>
+    <FIELD3>100,000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>PLN</FIELD7>
+    <FIELD8>USDPLN is a currency pair that represents the exchange rate between the US Dollar and the Polish Zloty. In this currency pair, the US Dollar is the base currency, while the Polish Zloty is the quote currency. The USDPLN currency pair is traded in the forex market and is considered a minor currency pair.
+
+The value of the USDPLN currency pair is influenced by various factors, including economic data releases, political events, and monetary policy decisions. For example, if the US Federal Reserve (Fed) announces an interest rate hike, it could increase demand for the US Dollar, which could cause the USDPLN currency pair to rise. On the other hand, if there is political instability in Poland or the National Bank of Poland announces a monetary policy decision that strengthens the Polish Zloty, it could cause the USDPLN currency pair to fall.
+
+The USDPLN currency pair has a relatively low trading volume compared to major currency pairs like EURUSD and USDJPY, and bid-ask spreads may be wider, leading to higher transaction costs for traders. However, it may be more volatile than other major currency pairs due to the sensitivity of the Polish Zloty to economic and political developments in Europe.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USDSGD</SPOT Forex>
+    <FIELD2>US Dollar/Singapore Dollar</FIELD2>
+    <FIELD3>100,000</FIELD3>
+    <FIELD4>5</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>SGD</FIELD7>
+    <FIELD8>USDSGD is a currency pair that represents the exchange rate between the US Dollar and the Singapore Dollar. In this currency pair, the US Dollar is the base currency, while the Singapore Dollar is the quote currency. The USDSGD currency pair is traded in the forex market and is considered a minor currency pair.
+
+The value of the USDSGD currency pair is influenced by various factors, including economic data releases, political events, and monetary policy decisions. For example, if the US Federal Reserve (Fed) announces an interest rate hike, it could increase demand for the US Dollar, which could cause the USDSGD currency pair to rise. On the other hand, if there is political instability in Singapore or the Monetary Authority of Singapore (MAS) announces a monetary policy decision that strengthens the Singapore Dollar, it could cause the USDSGD currency pair to fall.
+
+The USDSGD currency pair has a relatively low trading volume compared to major currency pairs like EURUSD and USDJPY, and bid-ask spreads may be wider, leading to higher transaction costs for traders. However, it may be less volatile than other minor currency pairs due to the stability of the Singaporean economy and its currency.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>Crypto</SPOT Forex>
+    <FIELD2></FIELD2>
+    <FIELD3></FIELD3>
+    <FIELD4></FIELD4>
+    <FIELD5></FIELD5>
+    <FIELD6></FIELD6>
+    <FIELD7></FIELD7>
+    <FIELD8></FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>BTCUSD</SPOT Forex>
+    <FIELD2>Bitcoin/US Dollar</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:5</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>BTCUSD is a currency pair in the forex market that represents the exchange rate between Bitcoin (BTC) and the US dollar (USD). BTC is a decentralized digital currency that operates without a central bank or single administrator, while the USD is a fiat currency issued by the United States government.
+
+The value of BTCUSD can be influenced by various economic and political factors, as well as technological developments and market sentiment towards cryptocurrencies. Bitcoin is a highly volatile asset and its price can fluctuate rapidly in response to various news events and market conditions.
+
+The average daily trading volume for BTCUSD is $27 billion USD. However, it&apos;s important to note that trading volumes can fluctuate over time based on various factors, such as market conditions, regulatory changes, and developments in the cryptocurrency industry. Additionally, the value of Bitcoin can be highly volatile and subject to significant price swings in short periods of time.
+</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>DSHUSD</SPOT Forex>
+    <FIELD2>Dash/US Dollar</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:5</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>DSHUSD is a currency pair in the forex market that represents the exchange rate between Dash (DSH), a digital cryptocurrency, and the US dollar (USD). The USD is the quote currency, while DSH is the base currency. This means that when you buy DSHUSD, you are buying Dash and selling US dollars.
+
+The value of DSHUSD can be influenced by various factors, including market demand for Dash, the overall adoption and acceptance of cryptocurrencies, and general economic and political conditions affecting the US dollar.
+
+The average daily trading volume for DSHUSD is $100 million USD. It&apos;s important to note that trading volumes can fluctuate over time based on various factors, such as market conditions, regulatory developments, and changes in overall sentiment towards cryptocurrencies.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>ETHUSD</SPOT Forex>
+    <FIELD2>Ethereum/US Dollar</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:5</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>ETHUSD is a currency pair in the forex market that represents the exchange rate between Ether (ETH), a digital cryptocurrency, and the US dollar (USD). The USD is the quote currency, while ETH is the base currency. This means that when you buy ETHUSD with your trading account, you are buying Ether and selling US dollars.
+
+The value of ETHUSD can be influenced by various factors, including market demand for Ether, the overall adoption and acceptance of cryptocurrencies, and general economic and political conditions affecting the US dollar.
+
+The average daily trading volume for ETHUSD is around $6.5 billion USD.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>LTCUSD</SPOT Forex>
+    <FIELD2>Litecoin/US dollar</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:5</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>LTCUSD is a currency pair that represents the exchange rate between Litecoin and the US dollar. It shows how many US dollars are required to buy one Litecoin.
+
+The average daily trading volume of LTCUSD varies depending on market conditions and the time period being considered. However, according to data from CoinMarketCap, the average daily trading volume of LTCUSD is $2.5 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>SPOT Metals</SPOT Forex>
+    <FIELD2></FIELD2>
+    <FIELD3></FIELD3>
+    <FIELD4></FIELD4>
+    <FIELD5></FIELD5>
+    <FIELD6></FIELD6>
+    <FIELD7></FIELD7>
+    <FIELD8></FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>Symbol Name</SPOT Forex>
+    <FIELD2>Symbol Description</FIELD2>
+    <FIELD3>Contract Size</FIELD3>
+    <FIELD4>Digit</FIELD4>
+    <FIELD5>Leverage</FIELD5>
+    <FIELD6>1 Pip PL</FIELD6>
+    <FIELD7>Quote CCY</FIELD7>
+    <FIELD8></FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>XAUUSD</SPOT Forex>
+    <FIELD2>Gold/US Dollar</FIELD2>
+    <FIELD3>100</FIELD3>
+    <FIELD4>2</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>XAUUSD is a currency pair that represents the exchange rate between gold (XAU) and the US dollar. It shows how many US dollars are required to buy one troy ounce of gold.
+ 
+ Gold is a popular asset for investors and traders around the world, and XAUUSD is actively traded in the global financial markets.
+ 
+ The average daily trading volume of XAUUSD is approximately $183 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>XAGUSD</SPOT Forex>
+    <FIELD2>Silver/US Dollar</FIELD2>
+    <FIELD3>5000</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>5</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>XAGUSD is a currency pair that represents the exchange rate between silver (XAG) and the US dollar. It shows how many US dollars are required to buy one troy ounce of silver.
+ 
+ Silver is a popular asset for investors and traders around the world, and XAGUSD is actively traded in the global financial markets.
+ 
+ The average daily trading volume of XAGUSD is approximately $15.6 billion.
+ 
+ XAGUSD is not considered a traditional currency pair, but it is still actively traded in the forex market.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>XAUEUR</SPOT Forex>
+    <FIELD2>Gold/Euro</FIELD2>
+    <FIELD3>100</FIELD3>
+    <FIELD4>2</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>EUR</FIELD7>
+    <FIELD8>XAUEUR is a currency pair that represents the exchange rate between gold (XAU) and the euro. It shows how many euros are required to buy one troy ounce of gold.
+ 
+ Gold is a popular asset for investors and traders around the world, and XAUEUR is actively traded in the global financial markets. The pair is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and inflation expectations.
+ 
+ The average daily trading volume of XAUEUR is approximately $183 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>XPDUSD</SPOT Forex>
+    <FIELD2>Palladium/US Dollar</FIELD2>
+    <FIELD3>100</FIELD3>
+    <FIELD4>2</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>10</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>XPDUSD is a currency pair that represents the exchange rate between palladium (XPD) and the US dollar. It shows how many US dollars are required to buy one troy ounce of palladium.
+ 
+ Palladium is a rare and valuable precious metal that is used in a variety of industrial applications, including catalytic converters for vehicles. XPDUSD is actively traded in the global financial markets, and the pair is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and demand for palladium in industrial applications.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>XPTUSD</SPOT Forex>
+    <FIELD2>Palladium/US Dollar</FIELD2>
+    <FIELD3>50</FIELD3>
+    <FIELD4>2</FIELD4>
+    <FIELD5>1:50</FIELD5>
+    <FIELD6>5</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>XPTUSD is a currency pair that represents the exchange rate between platinum (XPT) and the US dollar. It shows how many US dollars are required to buy one troy ounce of platinum.
+ 
+ Platinum is a rare and valuable precious metal that is used in a variety of industrial applications, including catalytic converters for vehicles and jewelry. XPTUSD is actively traded in the global financial markets, and the pair is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and demand for platinum in industrial and consumer applications.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>SPOT CFD</SPOT Forex>
+    <FIELD2></FIELD2>
+    <FIELD3></FIELD3>
+    <FIELD4></FIELD4>
+    <FIELD5></FIELD5>
+    <FIELD6></FIELD6>
+    <FIELD7></FIELD7>
+    <FIELD8></FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>Symbol Name</SPOT Forex>
+    <FIELD2>Symbol Description</FIELD2>
+    <FIELD3>Contract Size</FIELD3>
+    <FIELD4>Digit</FIELD4>
+    <FIELD5>Leverage</FIELD5>
+    <FIELD6>1 Pip PL</FIELD6>
+    <FIELD7>Quote CCY</FIELD7>
+    <FIELD8></FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>AUS200</SPOT Forex>
+    <FIELD2>Australia 200 Index</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>1</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>AUD</FIELD7>
+    <FIELD8>AUS200 is a financial instrument that represents the ASX 200 index, which is a market capitalization-weighted index of the top 200 companies listed on the Australian Securities Exchange (ASX). The index includes companies from a range of industries, including financials, resources, and consumer goods.
+ 
+ AUS200 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and company-specific news and earnings reports.
+ 
+ The average daily trading volume of AUS200 varies depending on market conditions and the time period being considered. However, data from the ASX shows that the total value traded for all ASX listed companies is approximately AUD 4.2 billion per day.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>ESP35</SPOT Forex>
+    <FIELD2>Spain 35 Index</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>1</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>EUR</FIELD7>
+    <FIELD8>ESP35 is a financial instrument that represents the IBEX 35 index, which is a market capitalization-weighted index of the top 35 companies listed on the Madrid Stock Exchange in Spain. The index includes companies from a range of industries, including financials, telecommunications, and consumer goods.
+ 
+ ESP35 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and company-specific news and earnings reports.
+ 
+ The average daily trading volume of ESP35 is €955 million.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>FRA40</SPOT Forex>
+    <FIELD2>France 40 Index</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>1</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>EUR</FIELD7>
+    <FIELD8>FRA40 is a financial instrument that represents the CAC 40 index, which is a market capitalization-weighted index of the top 40 companies listed on the Euronext Paris stock exchange in France. The index includes companies from a range of industries, including financials, industrials, and consumer goods.
+ 
+ FRA40 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases and company-specific news and earnings reports.
+ 
+ The average daily trading volume of FRA40 is €5.5 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>GER30</SPOT Forex>
+    <FIELD2>Germany 30 Index</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>1</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>EUR</FIELD7>
+    <FIELD8>GER30 is a financial instrument that represents the DAX 30 index, which is a market capitalization-weighted index of the top 30 companies listed on the Frankfurt Stock Exchange in Germany. The index includes companies from a range of industries, including financials, industrials, and technology.
+ 
+ The average daily trading volume of GER30 is €8.9 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>HK50</SPOT Forex>
+    <FIELD2>Hong Kong 50 Index</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>1</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>HKD</FIELD7>
+    <FIELD8>HK50 is a financial instrument that represents the Hang Seng Index, which is a market capitalization-weighted index of the top 50 companies listed on the Hong Kong Stock Exchange. The index includes companies from a range of industries, including financials, technology, and consumer goods.
+ 
+ HK50 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases, geopolitical events, and company-specific news and earnings reports.
+ 
+ The average daily trading volume of HK50 is 186.3 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>JPN225</SPOT Forex>
+    <FIELD2>Japan 225 Index</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>1</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>JPN225 is a financial instrument that represents the Nikkei 225 index, which is a price-weighted index of the top 225 companies listed on the Tokyo Stock Exchange in Japan. The index includes companies from a range of industries, including financials, technology, and consumer goods.
+ 
+ The average daily trading volume of JPN225 varies depending on market conditions and the time period being considered. However, data from the Tokyo Stock Exchange shows that the average daily trading volume of the Nikkei 225 index in 2021 is approximately JPY 1.9 trillion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>NAS100</SPOT Forex>
+    <FIELD2>NASDAQ 100 Index</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>1</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>NAS100 is a financial instrument that represents the NASDAQ 100 index, which is a market capitalization-weighted index of the top 100 non-financial companies listed on the NASDAQ stock exchange in the United States. The index includes companies from a range of industries, with a heavy weighting towards technology.
+ 
+ NAS100 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and company-specific news and earnings reports.
+ 
+ The average daily trading volume of NAS100 is $137 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>SPX500</SPOT Forex>
+    <FIELD2>SP 500 Index</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>1</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>SPX500 is a financial instrument that represents the S&amp;P 500 index, which is a market capitalization-weighted index of the top 500 companies listed on the New York Stock Exchange and NASDAQ stock exchange in the United States. The index includes companies from a range of industries, including financials, technology, and consumer goods.
+ 
+ SPX500 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and company-specific news and earnings reports.
+ 
+ The average daily trading volume of SPX500 is $2.5 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>UK100</SPOT Forex>
+    <FIELD2>UK 100 Index</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>1</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>GBP</FIELD7>
+    <FIELD8>UK100 is a financial instrument that represents the FTSE 100 index, which is a market capitalization-weighted index of the top 100 companies listed on the London Stock Exchange in the United Kingdom. The index includes companies from a range of industries, including financials, consumer goods, and energy.
+ 
+ The average daily trading volume of UK100 is £4.4 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>UKOIL</SPOT Forex>
+    <FIELD2>Crude Oil (Brent)</FIELD2>
+    <FIELD3>100</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>UKOIL is a financial instrument that represents Brent crude oil, which is a type of sweet crude oil that is extracted from the North Sea. Brent crude oil is an important benchmark for global oil prices and is used as a pricing reference for approximately two-thirds of the world&apos;s internationally traded crude oil supplies.
+ 
+ UKOIL is actively traded in the financial markets, and the value of the instrument is often influenced by a variety of factors, including global supply and demand dynamics, geopolitical events, economic data releases, and weather patterns.
+ 
+ The average daily trading volume of UKOIL is 2.2 million contracts, which is equivalent to approximately 2.2 billion barrels of oil.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>US30</SPOT Forex>
+    <FIELD2>Wall Street 30 Index</FIELD2>
+    <FIELD3>1</FIELD3>
+    <FIELD4>1</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>US30 is a financial instrument that represents the Dow Jones Industrial Average, which is a price-weighted index of the top 30 companies listed on the New York Stock Exchange and NASDAQ stock exchange in the United States. The index includes companies from a range of industries, including financials, technology, and consumer goods.
+ 
+ The average daily trading volume of US30 is $464 billion.</FIELD8>
+  </row>
+  <row>
+    <SPOT Forex>USOIL</SPOT Forex>
+    <FIELD2>Crude Oil (WTI)</FIELD2>
+    <FIELD3>100</FIELD3>
+    <FIELD4>3</FIELD4>
+    <FIELD5>1:100</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>USD</FIELD7>
+    <FIELD8>USOIL is a financial instrument that represents West Texas Intermediate (WTI) crude oil, which is a type of light sweet crude oil that is produced in the United States. WTI crude oil is an important benchmark for global oil prices and is used as a pricing reference for approximately one-third of the world&apos;s internationally traded crude oil supplies.
+ 
+ USOIL is actively traded in the financial markets, and the value of the instrument is often influenced by a variety of factors, including global supply and demand dynamics, geopolitical events, economic data releases, and weather patterns.
+ 
+ The average daily trading volume of USOIL is 1.2 million contracts, which is equivalent to approximately 1.2 billion barrels of oil.</FIELD8>
+  </row>
+</root>
