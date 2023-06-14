@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Symbol Name>XAUUSD</Symbol Name>
+    <Symbol Description>Gold/US Dollar</Symbol Description>
+    <Contract Size>100</Contract Size>
+    <Digit>2</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>10</_1 Pip PL>
+    <Quote CCY>USD</Quote CCY>
+    <FIELD8>XAUUSD is a currency pair that represents the exchange rate between gold (XAU) and the US dollar. It shows how many US dollars are required to buy one troy ounce of gold.
+ 
+ Gold is a popular asset for investors and traders around the world, and XAUUSD is actively traded in the global financial markets.
+ 
+ The average daily trading volume of XAUUSD is approximately $183 billion.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>XAGUSD</Symbol Name>
+    <Symbol Description>Silver/US Dollar</Symbol Description>
+    <Contract Size>5000</Contract Size>
+    <Digit>3</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>5</_1 Pip PL>
+    <Quote CCY>USD</Quote CCY>
+    <FIELD8>XAGUSD is a currency pair that represents the exchange rate between silver (XAG) and the US dollar. It shows how many US dollars are required to buy one troy ounce of silver.
+ 
+ Silver is a popular asset for investors and traders around the world, and XAGUSD is actively traded in the global financial markets.
+ 
+ The average daily trading volume of XAGUSD is approximately $15.6 billion.
+ 
+ XAGUSD is not considered a traditional currency pair, but it is still actively traded in the forex market.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>XAUEUR</Symbol Name>
+    <Symbol Description>Gold/Euro</Symbol Description>
+    <Contract Size>100</Contract Size>
+    <Digit>2</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>10</_1 Pip PL>
+    <Quote CCY>EUR</Quote CCY>
+    <FIELD8>XAUEUR is a currency pair that represents the exchange rate between gold (XAU) and the euro. It shows how many euros are required to buy one troy ounce of gold.
+ 
+ Gold is a popular asset for investors and traders around the world, and XAUEUR is actively traded in the global financial markets. The pair is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and inflation expectations.
+ 
+ The average daily trading volume of XAUEUR is approximately $183 billion.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>XPDUSD</Symbol Name>
+    <Symbol Description>Palladium/US Dollar</Symbol Description>
+    <Contract Size>100</Contract Size>
+    <Digit>2</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>10</_1 Pip PL>
+    <Quote CCY>USD</Quote CCY>
+    <FIELD8>XPDUSD is a currency pair that represents the exchange rate between palladium (XPD) and the US dollar. It shows how many US dollars are required to buy one troy ounce of palladium.
+ 
+ Palladium is a rare and valuable precious metal that is used in a variety of industrial applications, including catalytic converters for vehicles. XPDUSD is actively traded in the global financial markets, and the pair is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and demand for palladium in industrial applications.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>XPTUSD</Symbol Name>
+    <Symbol Description>Palladium/US Dollar</Symbol Description>
+    <Contract Size>50</Contract Size>
+    <Digit>2</Digit>
+    <Leverage>1:50</Leverage>
+    <_1 Pip PL>5</_1 Pip PL>
+    <Quote CCY>USD</Quote CCY>
+    <FIELD8>XPTUSD is a currency pair that represents the exchange rate between platinum (XPT) and the US dollar. It shows how many US dollars are required to buy one troy ounce of platinum.
+ 
+ Platinum is a rare and valuable precious metal that is used in a variety of industrial applications, including catalytic converters for vehicles and jewelry. XPTUSD is actively traded in the global financial markets, and the pair is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and demand for platinum in industrial and consumer applications.</FIELD8>
+  </row>
+</root>
