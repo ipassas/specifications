@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Symbol Name>AUS200</Symbol Name>
+    <Symbol Description>Australia 200 Index</Symbol Description>
+    <Contract Size>1</Contract Size>
+    <Digit>1</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>AUD</Quote CCY>
+    <FIELD8>AUS200 is a financial instrument that represents the ASX 200 index, which is a market capitalization-weighted index of the top 200 companies listed on the Australian Securities Exchange (ASX). The index includes companies from a range of industries, including financials, resources, and consumer goods.
+ 
+ AUS200 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and company-specific news and earnings reports.
+ 
+ The average daily trading volume of AUS200 varies depending on market conditions and the time period being considered. However, data from the ASX shows that the total value traded for all ASX listed companies is approximately AUD 4.2 billion per day.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>ESP35</Symbol Name>
+    <Symbol Description>Spain 35 Index</Symbol Description>
+    <Contract Size>1</Contract Size>
+    <Digit>1</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>EUR</Quote CCY>
+    <FIELD8>ESP35 is a financial instrument that represents the IBEX 35 index, which is a market capitalization-weighted index of the top 35 companies listed on the Madrid Stock Exchange in Spain. The index includes companies from a range of industries, including financials, telecommunications, and consumer goods.
+ 
+ ESP35 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and company-specific news and earnings reports.
+ 
+ The average daily trading volume of ESP35 is €955 million.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>FRA40</Symbol Name>
+    <Symbol Description>France 40 Index</Symbol Description>
+    <Contract Size>1</Contract Size>
+    <Digit>1</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>EUR</Quote CCY>
+    <FIELD8>FRA40 is a financial instrument that represents the CAC 40 index, which is a market capitalization-weighted index of the top 40 companies listed on the Euronext Paris stock exchange in France. The index includes companies from a range of industries, including financials, industrials, and consumer goods.
+ 
+ FRA40 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases and company-specific news and earnings reports.
+ 
+ The average daily trading volume of FRA40 is €5.5 billion.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>GER30</Symbol Name>
+    <Symbol Description>Germany 30 Index</Symbol Description>
+    <Contract Size>1</Contract Size>
+    <Digit>1</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>EUR</Quote CCY>
+    <FIELD8>GER30 is a financial instrument that represents the DAX 30 index, which is a market capitalization-weighted index of the top 30 companies listed on the Frankfurt Stock Exchange in Germany. The index includes companies from a range of industries, including financials, industrials, and technology.
+ 
+ The average daily trading volume of GER30 is €8.9 billion.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>HK50</Symbol Name>
+    <Symbol Description>Hong Kong 50 Index</Symbol Description>
+    <Contract Size>1</Contract Size>
+    <Digit>1</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>HKD</Quote CCY>
+    <FIELD8>HK50 is a financial instrument that represents the Hang Seng Index, which is a market capitalization-weighted index of the top 50 companies listed on the Hong Kong Stock Exchange. The index includes companies from a range of industries, including financials, technology, and consumer goods.
+ 
+ HK50 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases, geopolitical events, and company-specific news and earnings reports.
+ 
+ The average daily trading volume of HK50 is 186.3 billion.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>JPN225</Symbol Name>
+    <Symbol Description>Japan 225 Index</Symbol Description>
+    <Contract Size>1</Contract Size>
+    <Digit>1</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>USD</Quote CCY>
+    <FIELD8>JPN225 is a financial instrument that represents the Nikkei 225 index, which is a price-weighted index of the top 225 companies listed on the Tokyo Stock Exchange in Japan. The index includes companies from a range of industries, including financials, technology, and consumer goods.
+ 
+ The average daily trading volume of JPN225 varies depending on market conditions and the time period being considered. However, data from the Tokyo Stock Exchange shows that the average daily trading volume of the Nikkei 225 index in 2021 is approximately JPY 1.9 trillion.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>NAS100</Symbol Name>
+    <Symbol Description>NASDAQ 100 Index</Symbol Description>
+    <Contract Size>1</Contract Size>
+    <Digit>1</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>USD</Quote CCY>
+    <FIELD8>NAS100 is a financial instrument that represents the NASDAQ 100 index, which is a market capitalization-weighted index of the top 100 non-financial companies listed on the NASDAQ stock exchange in the United States. The index includes companies from a range of industries, with a heavy weighting towards technology.
+ 
+ NAS100 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and company-specific news and earnings reports.
+ 
+ The average daily trading volume of NAS100 is $137 billion.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>SPX500</Symbol Name>
+    <Symbol Description>SP 500 Index</Symbol Description>
+    <Contract Size>1</Contract Size>
+    <Digit>1</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>USD</Quote CCY>
+    <FIELD8>SPX500 is a financial instrument that represents the S&amp;P 500 index, which is a market capitalization-weighted index of the top 500 companies listed on the New York Stock Exchange and NASDAQ stock exchange in the United States. The index includes companies from a range of industries, including financials, technology, and consumer goods.
+ 
+ SPX500 is actively traded in the financial markets, and the value of the index is often influenced by a variety of factors, including economic data releases, geopolitical events, global market sentiment, and company-specific news and earnings reports.
+ 
+ The average daily trading volume of SPX500 is $2.5 billion.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>UK100</Symbol Name>
+    <Symbol Description>UK 100 Index</Symbol Description>
+    <Contract Size>1</Contract Size>
+    <Digit>1</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>GBP</Quote CCY>
+    <FIELD8>UK100 is a financial instrument that represents the FTSE 100 index, which is a market capitalization-weighted index of the top 100 companies listed on the London Stock Exchange in the United Kingdom. The index includes companies from a range of industries, including financials, consumer goods, and energy.
+ 
+ The average daily trading volume of UK100 is £4.4 billion.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>UKOIL</Symbol Name>
+    <Symbol Description>Crude Oil (Brent)</Symbol Description>
+    <Contract Size>100</Contract Size>
+    <Digit>3</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>USD</Quote CCY>
+    <FIELD8>UKOIL is a financial instrument that represents Brent crude oil, which is a type of sweet crude oil that is extracted from the North Sea. Brent crude oil is an important benchmark for global oil prices and is used as a pricing reference for approximately two-thirds of the world&apos;s internationally traded crude oil supplies.
+ 
+ UKOIL is actively traded in the financial markets, and the value of the instrument is often influenced by a variety of factors, including global supply and demand dynamics, geopolitical events, economic data releases, and weather patterns.
+ 
+ The average daily trading volume of UKOIL is 2.2 million contracts, which is equivalent to approximately 2.2 billion barrels of oil.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>US30</Symbol Name>
+    <Symbol Description>Wall Street 30 Index</Symbol Description>
+    <Contract Size>1</Contract Size>
+    <Digit>1</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>USD</Quote CCY>
+    <FIELD8>US30 is a financial instrument that represents the Dow Jones Industrial Average, which is a price-weighted index of the top 30 companies listed on the New York Stock Exchange and NASDAQ stock exchange in the United States. The index includes companies from a range of industries, including financials, technology, and consumer goods.
+ 
+ The average daily trading volume of US30 is $464 billion.</FIELD8>
+  </row>
+  <row>
+    <Symbol Name>USOIL</Symbol Name>
+    <Symbol Description>Crude Oil (WTI)</Symbol Description>
+    <Contract Size>100</Contract Size>
+    <Digit>3</Digit>
+    <Leverage>1:100</Leverage>
+    <_1 Pip PL>1</_1 Pip PL>
+    <Quote CCY>USD</Quote CCY>
+    <FIELD8>USOIL is a financial instrument that represents West Texas Intermediate (WTI) crude oil, which is a type of light sweet crude oil that is produced in the United States. WTI crude oil is an important benchmark for global oil prices and is used as a pricing reference for approximately one-third of the world&apos;s internationally traded crude oil supplies.
+ 
+ USOIL is actively traded in the financial markets, and the value of the instrument is often influenced by a variety of factors, including global supply and demand dynamics, geopolitical events, economic data releases, and weather patterns.
+ 
+ The average daily trading volume of USOIL is 1.2 million contracts, which is equivalent to approximately 1.2 billion barrels of oil.</FIELD8>
+  </row>
+</root>
